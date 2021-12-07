@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "tdd_blog_user",
+    "password": "tddBlgUsr987",
+    "database": "tdd_blog",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "tdd_blog_user",
+    "password": "tddBlgUsr987",
+    "database": "tdd_blog",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "tdd_blog_user",
+    "password": "tddBlgUsr987",
+    "database": "tdd_blog",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
